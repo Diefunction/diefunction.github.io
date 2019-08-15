@@ -20,7 +20,7 @@ title                    : "Diefunction.io"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Diefunction"
-description              : "pentesting | writeups | hackthebox | streaming"
+description              : "Pentester / Programmer / HTB"
 url                      : "https://Diefunction.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Diefunction"
   avatar           : "/assets/images/avatar.gif" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Pentester / Programmer / HTB"
+  bio              : "Pentester / Programmer"
   location         : "Saudi Arabia"
   email            :
   links:
